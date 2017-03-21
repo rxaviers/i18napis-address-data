@@ -1,0 +1,9 @@
+{
+  "zipex": "320,121,220,110",
+  "key": "IS",
+  "zip": "\\d{3}",
+  "fmt": "%N%n%O%n%A%n%Z %C",
+  "posturl": "https://www.postur.is/um-postinn/posthus/gotuskra/",
+  "id": "data/IS",
+  "name": "ICELAND"
+}

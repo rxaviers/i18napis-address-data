@@ -1,0 +1,9 @@
+{
+  "zipex": "BB23026,BB22025",
+  "name": "BARBADOS",
+  "zip": "BB\\d{5}",
+  "fmt": "%N%n%O%n%A%n%C, %S %Z",
+  "state_name_type": "parish",
+  "key": "BB",
+  "id": "data/BB"
+}

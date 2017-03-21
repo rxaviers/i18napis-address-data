@@ -1,0 +1,11 @@
+{
+  "upper": "CZ",
+  "zipex": "GY1 1AA,GY2 2BT",
+  "key": "GG",
+  "zip": "GY\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}",
+  "require": "ACZ",
+  "id": "data/GG",
+  "posturl": "http://www.guernseypost.com/postcode_finder/",
+  "fmt": "%N%n%O%n%A%n%C%nGUERNSEY%n%Z",
+  "name": "CHANNEL ISLANDS"
+}

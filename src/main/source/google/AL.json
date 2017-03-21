@@ -1,0 +1,8 @@
+{
+  "zipex": "1001,1017,3501",
+  "name": "ALBANIA",
+  "zip": "\\d{4}",
+  "fmt": "%N%n%O%n%A%n%Z%n%C",
+  "key": "AL",
+  "id": "data/AL"
+}

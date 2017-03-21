@@ -1,0 +1,8 @@
+{
+  "zipex": "720001",
+  "name": "KYRGYZSTAN",
+  "zip": "\\d{6}",
+  "fmt": "%N%n%O%n%A%n%Z %C",
+  "key": "KG",
+  "id": "data/KG"
+}

@@ -1,0 +1,11 @@
+{
+  "upper": "ACNO",
+  "zipex": "1037,2380,1540",
+  "key": "HU",
+  "zip": "\\d{4}",
+  "require": "ACZ",
+  "id": "data/HU",
+  "posturl": "http://posta.hu/ugyfelszolgalat/iranyitoszam_kereso",
+  "fmt": "%N%n%O%n%C%n%A%n%Z",
+  "name": "HUNGARY (Rep.)"
+}

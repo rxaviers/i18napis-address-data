@@ -1,0 +1,9 @@
+{
+  "zipex": "69501,11212",
+  "key": "EE",
+  "zip": "\\d{5}",
+  "fmt": "%N%n%O%n%A%n%Z %C",
+  "posturl": "http://www.post.ee/?op=sihtnumbriotsing",
+  "id": "data/EE",
+  "name": "ESTONIA"
+}

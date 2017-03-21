@@ -1,0 +1,10 @@
+{
+  "zipex": "6001,6015,6332,8252,1030",
+  "key": "NZ",
+  "zip": "\\d{4}",
+  "fmt": "%N%n%O%n%A%n%D%n%C %Z",
+  "id": "data/NZ",
+  "posturl": "http://www.nzpost.co.nz/Cultures/en-NZ/OnlineTools/PostCodeFinder/",
+  "require": "ACZ",
+  "name": "NEW ZEALAND"
+}

@@ -1,0 +1,9 @@
+{
+  "zipex": "20026",
+  "key": "MV",
+  "zip": "\\d{5}",
+  "fmt": "%N%n%O%n%A%n%C %Z",
+  "posturl": "http://www.maldivespost.com/?lid=10",
+  "id": "data/MV",
+  "name": "MALDIVES"
+}

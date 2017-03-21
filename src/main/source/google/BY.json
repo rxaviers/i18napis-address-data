@@ -1,0 +1,9 @@
+{
+  "zipex": "223016,225860,220050",
+  "key": "BY",
+  "zip": "\\d{6}",
+  "fmt": "%S%n%Z %C%n%A%n%O%n%N",
+  "posturl": "http://ex.belpost.by/addressbook/",
+  "id": "data/BY",
+  "name": "BELARUS"
+}
