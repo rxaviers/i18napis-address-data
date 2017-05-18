@@ -22,7 +22,7 @@ function generatei18napiData(doneCallback) {
             //default fallback countrycode
             countries.push('ZZ');
             // get data for each country
-            async.each(countries, country => {
+            async.each(countries, (country, asyncDoneCallBack) => {
                 let countryOptions = Object.assign(options, { path: `/address/data/${country}` });
                 var jsonFile = path.join(srcFolder, country + '.json');
                 let countryReq = http.request(countryOptions, countryRes => {
@@ -35,10 +35,14 @@ function generatei18napiData(doneCallback) {
                             if (err) {
                                 console.log(err);
                             }
+                            asyncDoneCallBack(); // tell async this country is done
                         });
                     });
                 });
-                countryReq.on('error', err => console.log(err.stack));
+                countryReq.on('error', err => {
+                    console.log(err.stack);
+                    asyncDoneCallBack(); // skip this country if the request encountered an error
+                });
                 countryReq.end();
             },
                 err => {
