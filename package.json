@@ -18,7 +18,11 @@
         "data"
     ],
     "author": "Manikandan Ramalingam Kandaswamy <rajavelmani@gmail.com>",
-    "license": "ISC",
+    "contributors": [
+      "Daniel Bruhn",
+      "Rafael Xavier de Souza"
+    ],
+    "license": "MIT",
     "devDependencies": {
         "async": "^0.9.0"
     }
