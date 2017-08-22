@@ -2,10 +2,9 @@
     "name": "i18napis-address-data",
     "version": "1.0.0",
     "description": "address data extractor from i18napis.appspot.com",
-    "main": "index.js",
+    "main": "dist",
     "scripts": {
-        "build": "node index.js",
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "build": "node build.js"
     },
     "keywords": [
         "address",
@@ -19,11 +18,13 @@
     ],
     "author": "Manikandan Ramalingam Kandaswamy <rajavelmani@gmail.com>",
     "contributors": [
-      "Daniel Bruhn",
-      "Rafael Xavier de Souza"
+        "Daniel Bruhn",
+        "Rafael Xavier de Souza"
     ],
     "license": "MIT",
     "devDependencies": {
-        "async": "^0.9.0"
+        "async": "^0.9.0",
+        "request": "^2.81.0",
+        "request-promise-native": "^1.0.4"
     }
 }
