@@ -58,6 +58,4 @@ import i18napisAddressData from "i18napis-address-data";
 
 ## License
 
-MIT © [Daniel Bruhn](dwbruhn@gmail.com)
-MIT © [Manikandan Ramalingam Kandaswamy](rajavelmani@gmail.com)
-MIT © [Rafael Xavier de Souza](http://rafael.xavier.blog.br)
+MIT © PayPal 2017
