@@ -38,7 +38,7 @@ The JSON files for each `data/<country>` found in the official service. The stru
 
 ## Status
 
-Latest official release is version 2017.8.0, published on 2017-08-21.
+Latest official release is version 2017.8.0, published on 2017-08-21. Last checked for updates on 2017-09-27.
 
 ## Usage
 
