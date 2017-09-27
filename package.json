@@ -22,6 +22,10 @@
         "Rafael Xavier de Souza"
     ],
     "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/rxaviers/zoned-date-time.git"
+    },
     "devDependencies": {
         "async": "^0.9.0",
         "request": "^2.81.0",
