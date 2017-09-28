@@ -2,7 +2,7 @@
   "zipex": "111221,130001,760011",
   "key": "CO",
   "zip": "\\d{6}",
-  "fmt": "%N%n%O%n%A%n%C, %S, %Z",
+  "fmt": "%N%n%O%n%A%n%C %Z%n%S",
   "state_name_type": "department",
   "id": "data/CO",
   "posturl": "http://www.codigopostal.gov.co/",

@@ -1,5 +1,6 @@
 {
   "id": "data/GD",
   "key": "GD",
-  "name": "GRENADA (WEST INDIES)"
+  "name": "GRENADA (WEST INDIES)",
+  "fmt": "%N%n%O%n%A%n%C, %S %Z"
 }

@@ -1,5 +1,6 @@
 {
   "id": "data/BI",
   "key": "BI",
-  "name": "BURUNDI"
+  "name": "BURUNDI",
+  "fmt": "%N%n%O%n%A%n%C, %S %Z"
 }

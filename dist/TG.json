@@ -1,5 +1,6 @@
 {
   "id": "data/TG",
   "key": "TG",
-  "name": "TOGO"
+  "name": "TOGO",
+  "fmt": "%N%n%O%n%A%n%C, %S %Z"
 }

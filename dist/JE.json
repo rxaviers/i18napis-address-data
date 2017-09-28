@@ -6,6 +6,6 @@
   "require": "ACZ",
   "id": "data/JE",
   "posturl": "http://www.jerseypost.com/tools/postcode-address-finder/",
-  "fmt": "%N%n%O%n%A%n%C%nJERSEY%n%Z",
+  "fmt": "%N%n%O%n%A%n%C, %S %Z",
   "name": "CHANNEL ISLANDS"
 }

@@ -3,7 +3,7 @@
   "zipex": "119415,136065,720344",
   "posturl": "http://postcode.vnpost.vn/services/search.aspx",
   "zip": "\\d{6}",
-  "fmt": "%N%n%O%n%A%n%C%n%S %Z",
+  "fmt": "%N%n%O%n%A%n%C%n%S-%Z",
   "languages": "vi",
   "lfmt": "%N%n%O%n%A%n%C%n%S %Z",
   "sub_lnames": "An Giang Province~Ba Ria-Vung Tau Province~Bac Lieu Province~Bac Giang Province~Bac Kan Province~Bac Ninh Province~Ben Tre Province~Binh Duong Province~Binh Dinh Province~Binh Phuoc Province~Binh Thuan Province~Ca Mau Province~Cao Bang Province~Can Tho City~Da Nang City~Dak Lak Province~Dak Nong Province~Dien Bien Province~Dong Nai Province~Dong Thap Province~Gia Lai Province~Ha Giang Province~Ha Nam Province~Hanoi City~Ha Tinh Province~Hai Duong Province~Haiphong City~Hau Giang Province~Hoa Binh Province~Hung Yen Province~Khanh Hoa Province~Kien Giang Province~Kon Tum Province~Lai Chau Province~Lang Song Province~Lao Cai Province~Lam Dong Province~Long An Province~Nam Dinh Province~Nghe An Province~Nanh Binh Province~Ninh Thuan Province~Phu Tho Province~Phu Yen Province~Quang Binh Province~Quang Nam Province~Quang Ngai Province~Quang Ninh Province~Quang Tri Province~Soc Trang Province~Son La Province~Tay Ninh Province~Thai Binh Province~Thai Nguyen Province~Thanh Hoa Province~Ho Chi Minh City~Thua Thien-Hue Province~Tien Giang Province~Tra Vinh Province~Tuyen Quang Province~Vinh Long Province~Vinh Phuc Province~Yen Bai Province",

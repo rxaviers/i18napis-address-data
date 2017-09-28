@@ -2,7 +2,7 @@
   "zipex": "501,101",
   "name": "MADAGASCAR",
   "zip": "\\d{3}",
-  "fmt": "%N%n%O%n%A%n%Z %C",
+  "fmt": "%N%n%O%n%A%n%C, %S %Z",
   "key": "MG",
   "id": "data/MG"
 }

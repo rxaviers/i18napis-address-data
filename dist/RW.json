@@ -2,5 +2,6 @@
   "upper": "AC",
   "id": "data/RW",
   "key": "RW",
-  "name": "RWANDA"
+  "name": "RWANDA",
+  "fmt": "%N%n%O%n%A%n%C, %S %Z"
 }

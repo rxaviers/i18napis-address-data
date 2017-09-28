@@ -3,7 +3,7 @@
   "zipex": "100",
   "key": "FO",
   "zip": "\\d{3}",
-  "fmt": "%N%n%O%n%A%nFO%Z %C",
+  "fmt": "%N%n%O%n%A%n%Z %C",
   "posturl": "http://www.postur.fo/",
   "id": "data/FO",
   "name": "FAROE ISLANDS"

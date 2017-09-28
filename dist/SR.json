@@ -2,7 +2,7 @@
   "lang": "nl",
   "upper": "AS",
   "name": "SURINAME",
-  "fmt": "%N%n%O%n%A%n%C%n%S",
+  "fmt": "%N%n%O%n%A%n%C, %S %Z",
   "languages": "nl",
   "sub_keys": "Brokopondo~Commewijne~Coronie~Marowijne~Nickerie~Para~Paramaribo~Saramacca~Sipaliwini~Wanica",
   "key": "SR",

@@ -8,6 +8,6 @@
   "require": "ACZ",
   "id": "data/PR",
   "posturl": "http://zip4.usps.com/zip4/welcome.jsp",
-  "fmt": "%N%n%O%n%A%n%C PR %Z",
+  "fmt": "%N%n%O%n%A%n%C, %S %Z",
   "name": "PUERTO RICO"
 }

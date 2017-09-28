@@ -11,6 +11,6 @@
   "key": "ES",
   "sub_isoids": "C~VI~AB~A~AL~O~AV~BA~B~BU~CC~CA~S~CS~CE~CR~CO~CU~GI~GR~GU~SS~H~HU~PM~J~LO~GC~LE~L~LU~M~MA~ML~MU~NA~OR~P~PO~SA~TF~SG~SE~SO~T~TE~TO~V~VA~BI~ZA~Z",
   "posturl": "http://www.correos.es/contenido/13-MenuRec2/04-MenuRec24/1010_s-CodPostal.asp",
-  "fmt": "%N%n%O%n%A%n%Z %C %S",
+  "fmt": "%N%n%O%n%A%n%Z %C%n%S",
   "name": "SPAIN"
 }

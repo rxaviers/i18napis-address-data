@@ -1,5 +1,6 @@
 {
   "id": "data/AQ",
   "key": "AQ",
-  "name": "ANTARCTICA"
+  "name": "ANTARCTICA",
+  "fmt": "%N%n%O%n%A%n%C, %S %Z"
 }

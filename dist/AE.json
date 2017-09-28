@@ -6,10 +6,10 @@
   "state_name_type": "emirate",
   "id": "data/AE",
   "languages": "ar",
-  "lfmt": "%N%n%O%n%A%n%S",
+  "lfmt": "%N%n%O%n%A%n%C %S",
   "sub_keys": "أبو ظبي~إمارة الشارقةّ~الفجيرة~ام القيوين~إمارة دبيّ~إمارة رأس الخيمة~عجمان",
   "key": "AE",
   "sub_isoids": "AZ~SH~FU~UQ~DU~RK~AJ",
-  "fmt": "%N%n%O%n%A%n%S",
+  "fmt": "%N%n%O%n%A%n%C %S",
   "sub_names": "أبو ظبي~الشارقة~الفجيرة~ام القيوين~دبي~رأس الخيمة~عجمان"
 }

@@ -4,5 +4,6 @@
   "zip": "\\d{5}",
   "fmt": "%N%n%O%n%A%n%Z %C",
   "key": "KW",
-  "id": "data/KW"
+  "id": "data/KW",
+  "lfmt": "%N%n%O%n%A%n%Z %C"
 }

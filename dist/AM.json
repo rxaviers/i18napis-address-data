@@ -4,7 +4,7 @@
   "zipex": "375010,0002,0010",
   "sub_zips": "0[2-5]~0[6-8]~09|1[01]~1[2-6]~00~1[7-9]|2[01]~2[2-5]~2[6-9]|3[01]~3[2-5]~3[6-8]~39|4[0-2]",
   "zip": "(?:37)?\\d{4}",
-  "fmt": "%N%n%O%n%A%n%Z%n%C%n%S",
+  "fmt": "%N%n%O%n%A%n%C, %S %Z",
   "languages": "hy",
   "lfmt": "%N%n%O%n%A%n%Z%n%C%n%S",
   "sub_lnames": "Aragatsotn~Ararat~Armavir~Gegharkunik~Yerevan~Lori~Kotayk~Shirak~Syunik~Vayots Dzor~Tavush",

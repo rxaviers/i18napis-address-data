@@ -1,5 +1,6 @@
 {
   "id": "data/ER",
   "key": "ER",
-  "name": "ERITREA"
+  "name": "ERITREA",
+  "fmt": "%N%n%O%n%A%n%C, %S %Z"
 }

@@ -1,5 +1,6 @@
 {
   "id": "data/CD",
   "key": "CD",
-  "name": "CONGO (DEM. REP.)"
+  "name": "CONGO (DEM. REP.)",
+  "fmt": "%N%n%O%n%A%n%C, %S %Z"
 }

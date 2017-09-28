@@ -1,5 +1,6 @@
 {
   "id": "data/GQ",
   "key": "GQ",
-  "name": "EQUATORIAL GUINEA"
+  "name": "EQUATORIAL GUINEA",
+  "fmt": "%N%n%O%n%A%n%C, %S %Z"
 }

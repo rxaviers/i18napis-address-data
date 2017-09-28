@@ -2,5 +2,6 @@
   "require": "A",
   "id": "data/AG",
   "key": "AG",
-  "name": "ANTIGUA AND BARBUDA"
+  "name": "ANTIGUA AND BARBUDA",
+  "fmt": "%N%n%O%n%A%n%C, %S %Z"
 }

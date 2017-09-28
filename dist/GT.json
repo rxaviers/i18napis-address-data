@@ -2,7 +2,7 @@
   "zipex": "09001,01501",
   "name": "GUATEMALA",
   "zip": "\\d{5}",
-  "fmt": "%N%n%O%n%A%n%Z- %C",
+  "fmt": "%N%n%O%n%A%n%C, %S %Z",
   "key": "GT",
   "id": "data/GT"
 }

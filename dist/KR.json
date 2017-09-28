@@ -11,13 +11,13 @@
   "state_name_type": "do_si",
   "id": "data/KR",
   "languages": "ko",
-  "lfmt": "%N%n%O%n%A%n%D%n%C%n%S%n%Z",
+  "lfmt": "%N%n%O%n%A%n%A, %A, %D, %C%n%S %Z",
   "sub_lnames": "Gangwon-do~Gyeonggi-do~Gyeongsangnam-do~Gyeongsangbuk-do~Gwangju~Daegu~Daejeon~Busan~Seoul~Sejong~Ulsan~Incheon~Jeollanam-do~Jeollabuk-do~Jeju-do~Chungcheongnam-do~Chungcheongbuk-do",
   "sub_keys": "강원도~경기도~경상남도~경상북도~광주광역시~대구광역시~대전광역시~부산광역시~서울특별시~세종특별자치시~울산광역시~인천광역시~전라남도~전라북도~제주특별자치도~충청남도~충청북도",
   "key": "KR",
   "sub_isoids": "42~41~48~47~29~27~30~26~11~50~31~28~46~45~49~44~43",
   "posturl": "http://www.epost.go.kr/search/zipcode/search5.jsp",
-  "fmt": "%S %C%D%n%A%n%O%n%N%n%Z",
+  "fmt": "%S %C %D%n%A%n%Z%n%O%n%N",
   "sub_names": "강원~경기~경남~경북~광주~대구~대전~부산~서울~세종~울산~인천~전남~전북~제주~충남~충북",
   "name": "SOUTH KOREA"
 }

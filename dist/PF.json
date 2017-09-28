@@ -7,5 +7,5 @@
   "state_name_type": "island",
   "id": "data/PF",
   "key": "PF",
-  "fmt": "%N%n%O%n%A%n%Z %C %S"
+  "fmt": "%N%n%O%n%A%n%C, %S %Z"
 }

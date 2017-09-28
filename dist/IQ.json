@@ -6,5 +6,5 @@
   "require": "ACS",
   "id": "data/IQ",
   "key": "IQ",
-  "fmt": "%O%n%N%n%A%n%C, %S%n%Z"
+  "fmt": "%N%n%O%n%A%n%C, %S %Z"
 }

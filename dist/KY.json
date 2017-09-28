@@ -9,6 +9,6 @@
   "languages": "en",
   "sub_keys": "Cayman Brac~Grand Cayman~Little Cayman",
   "key": "KY",
-  "fmt": "%N%n%O%n%A%n%S %Z",
+  "fmt": "%N%n%O%n%A%n%C, %S %Z",
   "name": "CAYMAN ISLANDS"
 }

@@ -1,5 +1,6 @@
 {
   "id": "data/PS",
   "key": "PS",
-  "name": "PALESTINIAN TERRITORY"
+  "name": "PALESTINIAN TERRITORY",
+  "fmt": "%N%n%O%n%A%n%C, %S %Z"
 }

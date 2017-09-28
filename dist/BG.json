@@ -5,5 +5,6 @@
   "fmt": "%N%n%O%n%A%n%Z %C",
   "posturl": "http://www.bgpost.bg/?cid=5",
   "id": "data/BG",
-  "name": "BULGARIA (REP.)"
+  "name": "BULGARIA (REP.)",
+  "lfmt": "%N%n%O%n%A%n%Z %C"
 }

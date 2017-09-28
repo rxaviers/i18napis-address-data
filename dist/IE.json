@@ -5,7 +5,7 @@
   "posturl": "https://finder.eircode.ie",
   "zip": "[\\dA-Z]{3} ?[\\dA-Z]{4}",
   "zip_name_type": "eircode",
-  "fmt": "%N%n%O%n%A%n%D%n%C%n%S %Z",
+  "fmt": "%N%n%O%n%A%n%D%n%C%n%S%n%Z",
   "state_name_type": "county",
   "languages": "en",
   "sub_keys": "Co. Carlow~Co. Cavan~Co. Clare~Co. Cork~Co. Donegal~Co. Dublin~Co. Galway~Co. Kerry~Co. Kildare~Co. Kilkenny~Co. Laois~Co. Leitrim~Co. Limerick~Co. Longford~Co. Louth~Co. Mayo~Co. Meath~Co. Monaghan~Co. Offaly~Co. Roscommon~Co. Sligo~Co. Tipperary~Co. Waterford~Co. Westmeath~Co. Wexford~Co. Wicklow",

@@ -2,5 +2,7 @@
   "upper": "AC",
   "id": "data/QA",
   "key": "QA",
-  "name": "QATAR"
+  "name": "QATAR",
+  "fmt": "%N%n%O%n%A%n%C",
+  "lfmt": "%N%n%O%n%A%n%C"
 }

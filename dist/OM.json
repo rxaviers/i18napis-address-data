@@ -2,7 +2,8 @@
   "zipex": "133,112,111",
   "name": "OMAN",
   "zip": "(?:PC )?\\d{3}",
-  "fmt": "%N%n%O%n%A%n%Z%n%C",
+  "fmt": "%N%n%O%n%A%n%Z%n%C%n%S",
   "key": "OM",
-  "id": "data/OM"
+  "id": "data/OM",
+  "lfmt": "%N%n%O%n%A%n%Z%n%C%n%S"
 }

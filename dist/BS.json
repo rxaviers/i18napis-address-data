@@ -1,7 +1,7 @@
 {
   "lang": "en",
   "name": "BAHAMAS",
-  "fmt": "%N%n%O%n%A%n%C, %S",
+  "fmt": "%N%n%O%n%A%n%C, %S %Z",
   "state_name_type": "island",
   "languages": "en",
   "sub_keys": "Abaco~Acklins~Andros~Berry Islands~Bimini~Cat Island~Crooked Island~Eleuthera~Exuma~Grand Bahama~Harbour Island~Inagua~Long Island~Mayaguana~N.P.~Ragged Island~Rum Cay~San Salvador~Spanish Wells",

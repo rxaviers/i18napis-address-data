@@ -14,7 +14,7 @@
   "key": "MX",
   "sub_isoids": "AGU~BCN~BCS~CAM~CHP~CHH~DIF~COA~COL~DUR~MEX~GUA~GRO~HID~JAL~MIC~MOR~NAY~NLE~OAX~PUE~QUE~ROO~SLP~SIN~SON~TAB~TAM~TLA~VER~YUC~ZAC",
   "posturl": "http://www.correosdemexico.gob.mx/ServiciosLinea/Paginas/ccpostales.aspx",
-  "fmt": "%N%n%O%n%A%n%D%n%Z %C, %S",
+  "fmt": "%N%n%O%n%A%n%Z %C, %S",
   "sub_names": "Aguascalientes~Baja California~Baja California Sur~Campeche~Chiapas~Chihuahua~Ciudad de México~Coahuila~Colima~Durango~Estado de México~Guanajuato~Guerrero~Hidalgo~Jalisco~Michoacán~Morelos~Nayarit~Nuevo León~Oaxaca~Puebla~Querétaro~Quintana Roo~San Luís Potosí~Sinalóa~Sonora~Tabasco~Tamaulipas~Tlaxcala~Veracruz~Yucatán~Zacatecas",
   "name": "MEXICO"
 }

@@ -5,5 +5,5 @@
   "require": "ACS",
   "id": "data/HN",
   "key": "HN",
-  "fmt": "%N%n%O%n%A%n%C, %S%n%Z"
+  "fmt": "%N%n%O%n%A%n%C, %S %Z"
 }

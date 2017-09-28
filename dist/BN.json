@@ -2,7 +2,7 @@
   "zipex": "BT2328,KA1131,BA1511",
   "key": "BN",
   "zip": "[A-Z]{2} ?\\d{4}",
-  "fmt": "%N%n%O%n%A%n%C %Z",
+  "fmt": "%N%n%O%n%A%n%C%n%S %Z",
   "posturl": "http://www.post.gov.bn/index.php/extensions/postcode-guide",
   "id": "data/BN",
   "name": "BRUNEI DARUSSALAM"

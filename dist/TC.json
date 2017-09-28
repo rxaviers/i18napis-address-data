@@ -6,5 +6,5 @@
   "require": "ACZ",
   "id": "data/TC",
   "key": "TC",
-  "fmt": "%N%n%O%n%A%n%C%n%Z"
+  "fmt": "%N%n%O%n%A%n%C, %S %Z"
 }

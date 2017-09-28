@@ -2,7 +2,7 @@
   "zipex": "0101",
   "key": "GE",
   "zip": "\\d{4}",
-  "fmt": "%N%n%O%n%A%n%Z %C",
+  "fmt": "%N%n%O%n%A%n%C, %S %Z",
   "posturl": "http://www.georgianpost.ge/index.php?page=10",
   "id": "data/GE",
   "name": "GEORGIA"

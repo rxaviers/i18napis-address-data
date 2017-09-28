@@ -2,7 +2,7 @@
   "zipex": "9170",
   "key": "SJ",
   "zip": "\\d{4}",
-  "fmt": "%N%n%O%n%A%n%Z %C",
+  "fmt": "%N%n%O%n%A%n%C, %S %Z",
   "id": "data/SJ",
   "posturl": "http://epab.posten.no/",
   "locality_name_type": "post_town",

@@ -1,5 +1,6 @@
 {
   "id": "data/ZW",
   "key": "ZW",
-  "name": "ZIMBABWE"
+  "name": "ZIMBABWE",
+  "fmt": "%N%n%O%n%A%n%C"
 }

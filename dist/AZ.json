@@ -3,7 +3,7 @@
   "zipex": "1000",
   "name": "AZERBAIJAN",
   "zip": "\\d{4}",
-  "fmt": "%N%n%O%n%A%nAZ %Z %C",
+  "fmt": "%N%n%O%n%A%n%C, %S %Z",
   "key": "AZ",
   "id": "data/AZ"
 }

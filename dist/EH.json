@@ -2,7 +2,7 @@
   "zipex": "70000,72000",
   "name": "WESTERN SAHARA",
   "zip": "\\d{5}",
-  "fmt": "%N%n%O%n%A%n%Z %C",
+  "fmt": "%N%n%O%n%A%n%C, %S %Z",
   "key": "EH",
   "id": "data/EH"
 }

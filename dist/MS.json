@@ -1,5 +1,6 @@
 {
   "id": "data/MS",
   "key": "MS",
-  "name": "MONTSERRAT"
+  "name": "MONTSERRAT",
+  "fmt": "%N%n%O%n%A%n%C, %S %Z"
 }

@@ -1,5 +1,6 @@
 {
   "id": "data/CM",
   "key": "CM",
-  "name": "CAMEROON"
+  "name": "CAMEROON",
+  "fmt": "%N%n%O%n%A%n%C"
 }

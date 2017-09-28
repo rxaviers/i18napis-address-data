@@ -1,5 +1,6 @@
 {
   "id": "data/DM",
   "key": "DM",
-  "name": "DOMINICA"
+  "name": "DOMINICA",
+  "fmt": "%N%n%O%n%A%n%C, %S %Z"
 }

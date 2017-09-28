@@ -1,5 +1,6 @@
 {
   "id": "data/TT",
   "key": "TT",
-  "name": "TRINIDAD AND TOBAGO"
+  "name": "TRINIDAD AND TOBAGO",
+  "fmt": "%N%n%O%n%A%n%C, %Z"
 }

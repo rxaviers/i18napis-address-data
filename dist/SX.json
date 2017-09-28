@@ -1,5 +1,6 @@
 {
   "id": "data/SX",
   "key": "SX",
-  "name": "SINT MAARTEN"
+  "name": "SINT MAARTEN",
+  "fmt": "%N%n%O%n%A%n%C, %S %Z"
 }

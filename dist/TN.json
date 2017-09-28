@@ -2,7 +2,7 @@
   "zipex": "1002,8129,3100,1030",
   "key": "TN",
   "zip": "\\d{4}",
-  "fmt": "%N%n%O%n%A%n%Z %C",
+  "fmt": "%N%n%O%n%A%n%C, %S %Z",
   "posturl": "http://www.poste.tn/codes.php",
   "id": "data/TN",
   "name": "TUNISIA"

@@ -7,6 +7,6 @@
   "id": "data/GB",
   "posturl": "http://www.royalmail.com/postcode-finder",
   "locality_name_type": "post_town",
-  "fmt": "%N%n%O%n%A%n%C%n%Z",
+  "fmt": "%N%n%O%n%A%n%C%n%S%n%Z",
   "name": "UNITED KINGDOM"
 }

@@ -7,6 +7,6 @@
   "id": "data/SE",
   "posturl": "http://www.posten.se/sv/Kundservice/Sidor/Sok-postnummer-resultat.aspx",
   "locality_name_type": "post_town",
-  "fmt": "%O%n%N%n%A%nSE-%Z %C",
+  "fmt": "%N%n%O%n%A%n%Z %C",
   "name": "SWEDEN"
 }
