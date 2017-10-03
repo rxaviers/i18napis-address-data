@@ -1,6 +1,5 @@
 {
   "id": "data/LY",
   "key": "LY",
-  "name": "LIBYA",
-  "fmt": "%N%n%O%n%A%n%C, %S %Z"
+  "name": "LIBYA"
 }

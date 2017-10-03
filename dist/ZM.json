@@ -2,7 +2,7 @@
   "zipex": "50100,50101",
   "name": "ZAMBIA",
   "zip": "\\d{5}",
-  "fmt": "%N%n%O%n%A%n%C, %S %Z",
+  "fmt": "%N%n%O%n%A%n%Z %C",
   "key": "ZM",
   "id": "data/ZM"
 }

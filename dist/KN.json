@@ -8,5 +8,5 @@
   "sub_keys": "Nevis~St. Kitts",
   "key": "KN",
   "sub_isoids": "N~K",
-  "fmt": "%N%n%O%n%A%n%C, %S %Z"
+  "fmt": "%N%n%O%n%A%n%C, %S"
 }

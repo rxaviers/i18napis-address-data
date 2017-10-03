@@ -5,5 +5,5 @@
   "require": "A",
   "id": "data/VG",
   "key": "VG",
-  "fmt": "%N%n%O%n%A%n%C, %S %Z"
+  "fmt": "%N%n%O%n%A%n%C%n%Z"
 }

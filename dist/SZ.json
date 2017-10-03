@@ -3,7 +3,7 @@
   "zipex": "H100",
   "key": "SZ",
   "zip": "[HLMS]\\d{3}",
-  "fmt": "%N%n%O%n%A%n%C, %S %Z",
+  "fmt": "%N%n%O%n%A%n%C%n%Z",
   "posturl": "http://www.sptc.co.sz/swazipost/codes/index.php",
   "id": "data/SZ",
   "name": "SWAZILAND"

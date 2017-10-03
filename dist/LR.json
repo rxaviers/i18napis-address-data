@@ -2,7 +2,7 @@
   "zipex": "1000",
   "name": "LIBERIA",
   "zip": "\\d{4}",
-  "fmt": "%N%n%O%n%A%n%C, %S %Z",
+  "fmt": "%N%n%O%n%A%n%Z %C",
   "key": "LR",
   "id": "data/LR"
 }

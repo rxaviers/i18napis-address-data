@@ -1,6 +1,5 @@
 {
   "id": "data/TK",
   "key": "TK",
-  "name": "TOKELAU",
-  "fmt": "%N%n%O%n%A%n%C, %S %Z"
+  "name": "TOKELAU"
 }

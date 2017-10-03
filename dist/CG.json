@@ -1,6 +1,5 @@
 {
   "id": "data/CG",
   "key": "CG",
-  "name": "CONGO (REP.)",
-  "fmt": "%N%n%O%n%A%n%C, %S %Z"
+  "name": "CONGO (REP.)"
 }

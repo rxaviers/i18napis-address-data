@@ -2,6 +2,5 @@
   "upper": "AC",
   "id": "data/MR",
   "key": "MR",
-  "name": "MAURITANIA",
-  "fmt": "%N%n%O%n%A%n%C, %S %Z"
+  "name": "MAURITANIA"
 }

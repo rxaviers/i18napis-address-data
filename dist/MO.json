@@ -4,5 +4,5 @@
   "id": "data/MO",
   "lfmt": "%N%n%O%n%A",
   "key": "MO",
-  "fmt": "%N%n%O%n%A%n%C, %S %Z"
+  "fmt": "%A%n%O%n%N"
 }

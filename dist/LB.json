@@ -2,7 +2,7 @@
   "zipex": "2038 3054,1107 2810,1000",
   "name": "LEBANON",
   "zip": "(?:\\d{4})(?: ?(?:\\d{4}))?",
-  "fmt": "%N%n%O%n%A%n%C, %S %Z",
+  "fmt": "%N%n%O%n%A%n%C %Z",
   "key": "LB",
   "id": "data/LB"
 }

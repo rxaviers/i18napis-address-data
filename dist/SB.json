@@ -1,6 +1,5 @@
 {
   "id": "data/SB",
   "key": "SB",
-  "name": "SOLOMON ISLANDS",
-  "fmt": "%N%n%O%n%A%n%C, %S %Z"
+  "name": "SOLOMON ISLANDS"
 }

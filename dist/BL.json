@@ -6,6 +6,6 @@
   "require": "ACZ",
   "id": "data/BL",
   "posturl": "http://www.laposte.fr/Particulier/Utiliser-nos-outils-pratiques/Outils-et-documents/Trouvez-un-code-postal",
-  "fmt": "%N%n%O%n%A%n%C, %S %Z",
+  "fmt": "%O%n%N%n%A%n%Z %C %X",
   "name": "SAINT BARTHELEMY"
 }

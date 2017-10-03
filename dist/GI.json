@@ -5,5 +5,5 @@
   "require": "A",
   "id": "data/GI",
   "key": "GI",
-  "fmt": "%N%n%O%n%A%n%C, %S %Z"
+  "fmt": "%N%n%O%n%A%nGIBRALTAR%n%Z"
 }

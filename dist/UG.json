@@ -1,6 +1,5 @@
 {
   "id": "data/UG",
   "key": "UG",
-  "name": "UGANDA",
-  "fmt": "%N%n%O%n%A%n%C, %S %Z"
+  "name": "UGANDA"
 }

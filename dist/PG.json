@@ -5,5 +5,5 @@
   "require": "ACS",
   "id": "data/PG",
   "key": "PG",
-  "fmt": "%N%n%O%n%A%n%C, %S %Z"
+  "fmt": "%N%n%O%n%A%n%C %Z %S"
 }

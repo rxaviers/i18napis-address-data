@@ -1,6 +1,5 @@
 {
   "id": "data/VU",
   "key": "VU",
-  "name": "VANUATU",
-  "fmt": "%N%n%O%n%A%n%C, %S %Z"
+  "name": "VANUATU"
 }

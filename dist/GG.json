@@ -6,6 +6,6 @@
   "require": "ACZ",
   "id": "data/GG",
   "posturl": "http://www.guernseypost.com/postcode_finder/",
-  "fmt": "%N%n%O%n%A%n%C, %S %Z",
+  "fmt": "%N%n%O%n%A%n%C%nGUERNSEY%n%Z",
   "name": "CHANNEL ISLANDS"
 }

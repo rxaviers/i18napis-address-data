@@ -1,6 +1,5 @@
 {
   "id": "data/ML",
   "key": "ML",
-  "name": "MALI",
-  "fmt": "%N%n%O%n%A%n%C, %S %Z"
+  "name": "MALI"
 }

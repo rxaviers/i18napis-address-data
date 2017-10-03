@@ -1,6 +1,5 @@
 {
   "id": "data/NU",
   "key": "NU",
-  "name": "NIUE",
-  "fmt": "%N%n%O%n%A%n%C, %S %Z"
+  "name": "NIUE"
 }

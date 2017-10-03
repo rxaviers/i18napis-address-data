@@ -6,6 +6,6 @@
   "require": "ACZ",
   "id": "data/IM",
   "posturl": "http://www.gov.im/post/postal/fr_main.asp",
-  "fmt": "%N%n%O%n%A%n%C, %S %Z",
+  "fmt": "%N%n%O%n%A%n%C%n%Z",
   "name": "ISLE OF MAN"
 }

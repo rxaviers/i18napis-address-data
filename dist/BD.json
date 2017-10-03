@@ -2,7 +2,7 @@
   "zipex": "1340,1000",
   "key": "BD",
   "zip": "\\d{4}",
-  "fmt": "%N%n%O%n%A%n%C, %S %Z",
+  "fmt": "%N%n%O%n%A%n%C - %Z",
   "posturl": "http://www.bangladeshpost.gov.bd/PostCode.asp",
   "id": "data/BD",
   "name": "BANGLADESH"

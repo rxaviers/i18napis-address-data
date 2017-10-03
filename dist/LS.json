@@ -2,7 +2,7 @@
   "zipex": "100",
   "name": "LESOTHO",
   "zip": "\\d{3}",
-  "fmt": "%N%n%O%n%A%n%C, %S %Z",
+  "fmt": "%N%n%O%n%A%n%C %Z",
   "key": "LS",
   "id": "data/LS"
 }

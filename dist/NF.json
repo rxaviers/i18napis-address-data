@@ -3,7 +3,7 @@
   "zipex": "2899",
   "name": "NORFOLK ISLAND",
   "zip": "2899",
-  "fmt": "%N%n%O%n%A%n%C, %S %Z",
+  "fmt": "%O%n%N%n%A%n%C %S %Z",
   "key": "NF",
   "id": "data/NF"
 }

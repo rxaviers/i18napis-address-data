@@ -8,6 +8,6 @@
   "state_name_type": "state",
   "id": "data/VI",
   "posturl": "http://zip4.usps.com/zip4/welcome.jsp",
-  "fmt": "%N%n%O%n%A%n%C, %S %Z",
+  "fmt": "%N%n%O%n%A%n%C %S %Z",
   "name": "VIRGIN ISLANDS (U.S.)"
 }

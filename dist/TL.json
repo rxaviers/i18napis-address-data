@@ -1,6 +1,5 @@
 {
   "id": "data/TL",
   "key": "TL",
-  "name": "TIMOR-LESTE",
-  "fmt": "%N%n%O%n%A%n%C, %S %Z"
+  "name": "TIMOR-LESTE"
 }

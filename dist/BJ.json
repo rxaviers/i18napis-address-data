@@ -2,6 +2,5 @@
   "upper": "AC",
   "id": "data/BJ",
   "key": "BJ",
-  "name": "BENIN",
-  "fmt": "%N%n%O%n%A%n%C, %S %Z"
+  "name": "BENIN"
 }

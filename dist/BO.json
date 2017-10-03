@@ -2,6 +2,5 @@
   "upper": "AC",
   "id": "data/BO",
   "key": "BO",
-  "name": "BOLIVIA",
-  "fmt": "%N%n%O%n%A%n%C, %S %Z"
+  "name": "BOLIVIA"
 }

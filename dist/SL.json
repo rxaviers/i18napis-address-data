@@ -1,6 +1,5 @@
 {
   "id": "data/SL",
   "key": "SL",
-  "name": "SIERRA LEONE",
-  "fmt": "%N%n%O%n%A%n%C, %S %Z"
+  "name": "SIERRA LEONE"
 }

@@ -2,7 +2,7 @@
   "zipex": "44000",
   "key": "PK",
   "zip": "\\d{5}",
-  "fmt": "%N%n%O%n%A%n%C, %S %Z",
+  "fmt": "%N%n%O%n%A%n%C-%Z",
   "posturl": "http://www.pakpost.gov.pk/postcode/postcode.html",
   "id": "data/PK",
   "name": "PAKISTAN"

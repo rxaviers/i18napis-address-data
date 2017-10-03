@@ -9,12 +9,12 @@
   "state_name_type": "county",
   "id": "data/TW",
   "languages": "zh-Hant",
-  "lfmt": "%N%n%O%n%A%n%S, %C%n%Z",
+  "lfmt": "%N%n%O%n%A%n%C, %S %Z",
   "sub_lnames": "Taichung City~Taipei City~Taitung County~Tainan City~Yilan County~Hualien County~Kinmen County~Nantou County~Pingtung County~Miaoli County~Taoyuan City~Kaohsiung City~Keelung City~Lienchiang County~Yunlin County~New Taipei City~Hsinchu City~Hsinchu County~Chiayi City~Chiayi County~Changhua County~Penghu County",
   "sub_keys": "台中市~台北市~台東縣~台南市~宜蘭縣~花蓮縣~金門縣~南投縣~屏東縣~苗栗縣~桃園市~高雄市~基隆市~連江縣~雲林縣~新北市~新竹市~新竹縣~嘉義市~嘉義縣~彰化縣~澎湖縣",
   "key": "TW",
   "sub_isoids": "TXG~TPE~TTT~TNN~ILA~HUA~~NAN~PIF~MIA~TAO~KHH~KEE~~YUN~NWT~HSZ~HSQ~CYI~CYQ~CHA~PEN",
   "posturl": "http://www.post.gov.tw/post/internet/f_searchzone/index.jsp?ID=190102",
-  "fmt": "%Z%n%C​%S%n%A%n%O%n%N",
+  "fmt": "%Z%n%S%C%n%A%n%O%n%N",
   "name": "TAIWAN"
 }
