@@ -2,7 +2,7 @@
   "zipex": "1001,2601,3801",
   "key": "AF",
   "zip": "\\d{4}",
-  "fmt": "%N%n%O%n%A%n%C, %S %Z",
+  "fmt": "%N%n%O%n%A%n%C%n%Z",
   "posturl": "http://postalcode.afghanpost.gov.af/",
   "id": "data/AF",
   "name": "AFGHANISTAN"

@@ -4,7 +4,7 @@
   "zipex": "AD100,AD501,AD700",
   "sub_zips": "AD50[01]~AD10[01]~AD20[01]~AD70[01]~AD40[01]~AD30[01]~AD60[01]",
   "zip": "AD[1-7]0\\d",
-  "fmt": "%N%n%O%n%A%n%C, %S %Z",
+  "fmt": "%N%n%O%n%A%n%Z %C",
   "languages": "ca",
   "sub_keys": "Parròquia d'Andorra la Vella~Canillo~Encamp~Escaldes-Engordany~La Massana~Ordino~Sant Julià de Lòria",
   "key": "AD",

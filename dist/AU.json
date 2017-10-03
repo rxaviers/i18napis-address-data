@@ -13,7 +13,7 @@
   "key": "AU",
   "locality_name_type": "suburb",
   "posturl": "http://www1.auspost.com.au/postcodes/",
-  "fmt": "%N%n%O%n%A%n%C %S %Z",
+  "fmt": "%O%n%N%n%A%n%C %S %Z",
   "sub_names": "Australian Capital Territory~New South Wales~Northern Territory~Queensland~South Australia~Tasmania~Victoria~Western Australia",
   "name": "AUSTRALIA"
 }
