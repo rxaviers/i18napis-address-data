@@ -3,7 +3,7 @@
   "zipex": "04340,03500",
   "key": "LT",
   "zip": "\\d{5}",
-  "fmt": "%N%n%O%n%A%n%Z %C",
+  "fmt": "%N%n%O%n%A%nLT-%Z %C",
   "posturl": "http://www.post.lt/lt/?id=316",
   "id": "data/LT",
   "name": "LITHUANIA"

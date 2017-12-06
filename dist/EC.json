@@ -3,7 +3,7 @@
   "zipex": "090105,092301",
   "key": "EC",
   "zip": "\\d{6}",
-  "fmt": "%N%n%O%n%A%n%Z %C",
+  "fmt": "%N%n%O%n%A%nEC%Z %C",
   "posturl": "http://www.codigopostal.gob.ec/",
   "id": "data/EC",
   "name": "ECUADOR"
