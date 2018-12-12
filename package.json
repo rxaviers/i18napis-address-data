@@ -1,6 +1,6 @@
 {
     "name": "i18napis-address-data",
-    "version": "v2017.8.0",
+    "version": "2018.12.0",
     "description": "address data extractor from i18napis.appspot.com",
     "main": "dist",
     "scripts": {
