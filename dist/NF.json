@@ -1,9 +1,9 @@
 {
-  "upper": "CS",
-  "zipex": "2899",
-  "name": "NORFOLK ISLAND",
-  "zip": "2899",
-  "fmt": "%O%n%N%n%A%n%C %S %Z",
+  "id": "data/NF",
   "key": "NF",
-  "id": "data/NF"
+  "name": "NORFOLK ISLAND",
+  "fmt": "%O%n%N%n%A%n%C %S %Z",
+  "upper": "CS",
+  "zip": "2899",
+  "zipex": "2899"
 }

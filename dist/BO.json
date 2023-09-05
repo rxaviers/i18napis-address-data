@@ -1,6 +1,6 @@
 {
-  "upper": "AC",
   "id": "data/BO",
   "key": "BO",
-  "name": "BOLIVIA"
+  "name": "BOLIVIA",
+  "upper": "AC"
 }

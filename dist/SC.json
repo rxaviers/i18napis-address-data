@@ -1,8 +1,8 @@
 {
-  "upper": "S",
+  "id": "data/SC",
+  "key": "SC",
   "name": "SEYCHELLES",
   "fmt": "%N%n%O%n%A%n%C%n%S",
-  "state_name_type": "island",
-  "key": "SC",
-  "id": "data/SC"
+  "upper": "S",
+  "state_name_type": "island"
 }

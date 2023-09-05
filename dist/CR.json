@@ -1,10 +1,10 @@
 {
-  "zipex": "1000,2010,1001",
-  "key": "CR",
-  "zip": "\\d{4,5}|\\d{3}-\\d{4}",
-  "fmt": "%N%n%O%n%A%n%S, %C%n%Z",
   "id": "data/CR",
-  "posturl": "https://www.correos.go.cr/nosotros/codigopostal/busqueda.html",
+  "key": "CR",
+  "name": "COSTA RICA",
+  "fmt": "%N%n%O%n%A%n%S, %C%n%Z",
   "require": "ACS",
-  "name": "COSTA RICA"
+  "zip": "\\d{4,5}|\\d{3}-\\d{4}",
+  "zipex": "1000,2010,1001",
+  "posturl": "https://correos.go.cr/codigo-postal/"
 }

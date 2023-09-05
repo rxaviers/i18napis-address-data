@@ -1,11 +1,11 @@
 {
-  "upper": "CZ",
-  "zipex": "IM2 1AA,IM99 1PS",
-  "key": "IM",
-  "zip": "IM\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}",
-  "require": "ACZ",
   "id": "data/IM",
-  "posturl": "http://www.gov.im/post/postal/fr_main.asp",
+  "key": "IM",
+  "name": "ISLE OF MAN",
   "fmt": "%N%n%O%n%A%n%C%n%Z",
-  "name": "ISLE OF MAN"
+  "require": "ACZ",
+  "upper": "CZ",
+  "zip": "IM\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}",
+  "zipex": "IM2 1AA,IM99 1PS",
+  "posturl": "https://www.iompost.com/tools-forms/postcode-finder/"
 }

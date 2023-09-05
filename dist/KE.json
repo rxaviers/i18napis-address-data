@@ -1,8 +1,8 @@
 {
-  "zipex": "20100,00100",
-  "name": "KENYA",
-  "zip": "\\d{5}",
-  "fmt": "%N%n%O%n%A%n%C%n%Z",
+  "id": "data/KE",
   "key": "KE",
-  "id": "data/KE"
+  "name": "KENYA",
+  "fmt": "%N%n%O%n%A%n%C%n%Z",
+  "zip": "\\d{5}",
+  "zipex": "20100,00100"
 }

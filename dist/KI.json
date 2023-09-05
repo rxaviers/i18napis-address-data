@@ -1,8 +1,8 @@
 {
-  "upper": "ACNOS",
+  "id": "data/KI",
+  "key": "KI",
   "name": "KIRIBATI",
   "fmt": "%N%n%O%n%A%n%S%n%C",
-  "state_name_type": "island",
-  "key": "KI",
-  "id": "data/KI"
+  "upper": "ACNOS",
+  "state_name_type": "island"
 }

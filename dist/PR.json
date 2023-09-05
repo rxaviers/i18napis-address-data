@@ -1,13 +1,13 @@
 {
-  "postprefix": "PR",
-  "upper": "ACNO",
-  "zipex": "00930",
-  "key": "PR",
-  "zip": "(00[679]\\d{2})(?:[ \\-](\\d{4}))?",
-  "zip_name_type": "zip",
-  "require": "ACZ",
   "id": "data/PR",
-  "posturl": "http://zip4.usps.com/zip4/welcome.jsp",
+  "key": "PR",
+  "name": "PUERTO RICO",
   "fmt": "%N%n%O%n%A%n%C PR %Z",
-  "name": "PUERTO RICO"
+  "require": "ACZ",
+  "upper": "ACNO",
+  "zip": "(00[679]\\d{2})(?:[ \\-](\\d{4}))?",
+  "zipex": "00930",
+  "posturl": "http://zip4.usps.com/zip4/welcome.jsp",
+  "zip_name_type": "zip",
+  "postprefix": "PR "
 }

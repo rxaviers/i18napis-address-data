@@ -1,9 +1,9 @@
 {
-  "zipex": "3900,3950,3911",
-  "name": "GREENLAND",
-  "zip": "39\\d{2}",
-  "require": "ACZ",
   "id": "data/GL",
   "key": "GL",
-  "fmt": "%N%n%O%n%A%n%Z %C"
+  "name": "GREENLAND",
+  "fmt": "%N%n%O%n%A%n%Z %C",
+  "require": "ACZ",
+  "zip": "39\\d{2}",
+  "zipex": "3900,3950,3911"
 }

@@ -1,8 +1,8 @@
 {
-  "zipex": "TDCU 1ZZ",
-  "name": "TRISTAN DA CUNHA",
-  "zip": "TDCU 1ZZ",
-  "fmt": "%N%n%O%n%A%n%C%n%Z",
+  "id": "data/TA",
   "key": "TA",
-  "id": "data/TA"
+  "name": "TRISTAN DA CUNHA",
+  "fmt": "%N%n%O%n%A%n%C%n%Z",
+  "zip": "TDCU 1ZZ",
+  "zipex": "TDCU 1ZZ"
 }

@@ -1,11 +1,11 @@
 {
-  "upper": "ACX",
-  "zipex": "98814,98800,98810",
-  "key": "NC",
-  "zip": "988\\d{2}",
-  "require": "ACZ",
   "id": "data/NC",
-  "posturl": "http://poste.opt.nc/index.php?option=com_content&view=article&id=80&Itemid=131",
+  "key": "NC",
+  "name": "NEW CALEDONIA",
   "fmt": "%O%n%N%n%A%n%Z %C %X",
-  "name": "NEW CALEDONIA"
+  "require": "ACZ",
+  "upper": "ACX",
+  "zip": "988\\d{2}",
+  "zipex": "98814,98800,98810",
+  "posturl": "https://www.opt.nc/particuliers/courrier-et-colis/les-codes-postaux-de-nouvelle-caledonie"
 }

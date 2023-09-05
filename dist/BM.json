@@ -1,9 +1,9 @@
 {
-  "zipex": "FL 07,HM GX,HM 12",
-  "key": "BM",
-  "zip": "[A-Z]{2} ?[A-Z0-9]{2}",
-  "fmt": "%N%n%O%n%A%n%C %Z",
-  "posturl": "http://www.landvaluation.bm/",
   "id": "data/BM",
-  "name": "BERMUDA"
+  "key": "BM",
+  "name": "BERMUDA",
+  "fmt": "%N%n%O%n%A%n%C %Z",
+  "zip": "[A-Z]{2} ?[A-Z0-9]{2}",
+  "zipex": "FL 07,HM GX,HM 12",
+  "posturl": "http://www.landvaluation.bm/"
 }

@@ -1,9 +1,9 @@
 {
-  "upper": "CS",
-  "zipex": "7050",
-  "name": "HEARD AND MCDONALD ISLANDS",
-  "zip": "\\d{4}",
-  "fmt": "%O%n%N%n%A%n%C %S %Z",
+  "id": "data/HM",
   "key": "HM",
-  "id": "data/HM"
+  "name": "HEARD AND MCDONALD ISLANDS",
+  "fmt": "%O%n%N%n%A%n%C %S %Z",
+  "upper": "CS",
+  "zip": "\\d{4}",
+  "zipex": "7050"
 }

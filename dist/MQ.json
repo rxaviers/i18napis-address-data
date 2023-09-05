@@ -1,11 +1,11 @@
 {
-  "upper": "ACX",
-  "zipex": "97220",
-  "key": "MQ",
-  "zip": "9[78]2\\d{2}",
-  "require": "ACZ",
   "id": "data/MQ",
-  "posturl": "http://www.laposte.fr/Particulier/Utiliser-nos-outils-pratiques/Outils-et-documents/Trouvez-un-code-postal",
+  "key": "MQ",
+  "name": "MARTINIQUE",
   "fmt": "%O%n%N%n%A%n%Z %C %X",
-  "name": "MARTINIQUE"
+  "require": "ACZ",
+  "upper": "ACX",
+  "zip": "9[78]2\\d{2}",
+  "zipex": "97220",
+  "posturl": "http://www.laposte.fr/Particulier/Utiliser-nos-outils-pratiques/Outils-et-documents/Trouvez-un-code-postal"
 }

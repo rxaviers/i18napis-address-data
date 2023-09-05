@@ -1,8 +1,8 @@
 {
-  "zipex": "00120",
-  "name": "VATICAN",
-  "zip": "00120",
-  "fmt": "%N%n%O%n%A%n%Z %C",
+  "id": "data/VA",
   "key": "VA",
-  "id": "data/VA"
+  "name": "VATICAN",
+  "fmt": "%N%n%O%n%A%n%Z %C",
+  "zip": "00120",
+  "zipex": "00120"
 }

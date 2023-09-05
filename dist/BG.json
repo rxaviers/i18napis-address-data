@@ -1,9 +1,9 @@
 {
-  "zipex": "1000,1700",
-  "key": "BG",
-  "zip": "\\d{4}",
-  "fmt": "%N%n%O%n%A%n%Z %C",
-  "posturl": "http://www.bgpost.bg/?cid=5",
   "id": "data/BG",
-  "name": "BULGARIA (REP.)"
+  "key": "BG",
+  "name": "BULGARIA (REP.)",
+  "fmt": "%N%n%O%n%A%n%Z %C",
+  "zip": "\\d{4}",
+  "zipex": "1000,1700",
+  "posturl": "http://www.bgpost.bg/?cid=5"
 }

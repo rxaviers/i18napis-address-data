@@ -1,8 +1,8 @@
 {
-  "zipex": "01160,01000",
-  "name": "LAO (PEOPLE'S DEM. REP.)",
-  "zip": "\\d{5}",
-  "fmt": "%N%n%O%n%A%n%Z %C",
+  "id": "data/LA",
   "key": "LA",
-  "id": "data/LA"
+  "name": "LAO (PEOPLE'S DEM. REP.)",
+  "fmt": "%N%n%O%n%A%n%Z %C",
+  "zip": "\\d{5}",
+  "zipex": "01160,01000"
 }

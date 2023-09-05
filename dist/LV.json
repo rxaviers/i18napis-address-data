@@ -1,9 +1,10 @@
 {
-  "zipex": "LV-1073,LV-1000",
-  "key": "LV",
-  "zip": "LV-\\d{4}",
-  "fmt": "%N%n%O%n%A%n%C, %Z",
-  "posturl": "http://www.pasts.lv/lv/uzzinas/nodalas/",
   "id": "data/LV",
-  "name": "LATVIA"
+  "key": "LV",
+  "name": "LATVIA",
+  "fmt": "%N%n%O%n%A%n%S%n%C, %Z",
+  "require": "ACZ",
+  "zip": "LV-\\d{4}",
+  "zipex": "LV-1073,LV-1000",
+  "posturl": "http://www.pasts.lv/lv/uzzinas/nodalas/"
 }

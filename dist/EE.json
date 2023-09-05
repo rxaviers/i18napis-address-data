@@ -1,9 +1,10 @@
 {
-  "zipex": "69501,11212",
-  "key": "EE",
-  "zip": "\\d{5}",
-  "fmt": "%N%n%O%n%A%n%Z %C",
-  "posturl": "http://www.post.ee/?op=sihtnumbriotsing",
   "id": "data/EE",
-  "name": "ESTONIA"
+  "key": "EE",
+  "name": "ESTONIA",
+  "fmt": "%N%n%O%n%A%n%Z %C %S",
+  "require": "ACZ",
+  "zip": "\\d{5}",
+  "zipex": "69501,11212",
+  "posturl": "https://www.omniva.ee/era/sihtnumbrite_otsing"
 }

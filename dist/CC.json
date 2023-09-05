@@ -1,9 +1,9 @@
 {
-  "upper": "CS",
-  "zipex": "6799",
-  "name": "COCOS (KEELING) ISLANDS",
-  "zip": "6799",
-  "fmt": "%O%n%N%n%A%n%C %S %Z",
+  "id": "data/CC",
   "key": "CC",
-  "id": "data/CC"
+  "name": "COCOS (KEELING) ISLANDS",
+  "fmt": "%O%n%N%n%A%n%C %S %Z",
+  "upper": "CS",
+  "zip": "6799",
+  "zipex": "6799"
 }
