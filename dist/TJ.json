@@ -1,8 +1,8 @@
 {
-  "zipex": "735450,734025",
-  "name": "TAJIKISTAN",
-  "zip": "\\d{6}",
-  "fmt": "%N%n%O%n%A%n%Z %C",
+  "id": "data/TJ",
   "key": "TJ",
-  "id": "data/TJ"
+  "name": "TAJIKISTAN",
+  "fmt": "%N%n%O%n%A%n%Z %C",
+  "zip": "\\d{6}",
+  "zipex": "735450,734025"
 }

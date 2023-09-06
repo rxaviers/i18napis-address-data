@@ -1,10 +1,10 @@
 {
-  "upper": "CZ",
-  "zipex": "090105,092301",
-  "key": "EC",
-  "zip": "\\d{6}",
-  "fmt": "%N%n%O%n%A%n%Z%n%C",
-  "posturl": "http://www.codigopostal.gob.ec/",
   "id": "data/EC",
-  "name": "ECUADOR"
+  "key": "EC",
+  "name": "ECUADOR",
+  "fmt": "%N%n%O%n%A%n%Z%n%C",
+  "upper": "CZ",
+  "zip": "\\d{6}",
+  "zipex": "090105,092301",
+  "posturl": "http://www.codigopostal.gob.ec/"
 }

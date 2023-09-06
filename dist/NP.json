@@ -1,9 +1,9 @@
 {
-  "zipex": "44601",
-  "key": "NP",
-  "zip": "\\d{5}",
-  "fmt": "%N%n%O%n%A%n%C %Z",
-  "posturl": "http://www.gpo.gov.np/postalcode.aspx",
   "id": "data/NP",
-  "name": "NEPAL"
+  "key": "NP",
+  "name": "NEPAL",
+  "fmt": "%N%n%O%n%A%n%C %Z",
+  "zip": "\\d{5}",
+  "zipex": "44601",
+  "posturl": "http://www.gpo.gov.np/Home/Postalcode"
 }

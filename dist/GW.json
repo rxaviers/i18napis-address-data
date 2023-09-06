@@ -1,8 +1,8 @@
 {
-  "zipex": "1000,1011",
-  "name": "GUINEA-BISSAU",
-  "zip": "\\d{4}",
-  "fmt": "%N%n%O%n%A%n%Z %C",
+  "id": "data/GW",
   "key": "GW",
-  "id": "data/GW"
+  "name": "GUINEA-BISSAU",
+  "fmt": "%N%n%O%n%A%n%Z %C",
+  "zip": "\\d{4}",
+  "zipex": "1000,1011"
 }

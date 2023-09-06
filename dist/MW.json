@@ -1,6 +1,6 @@
 {
-  "fmt": "%N%n%O%n%A%n%C %X",
   "id": "data/MW",
   "key": "MW",
-  "name": "MALAWI"
+  "name": "MALAWI",
+  "fmt": "%N%n%O%n%A%n%C %X"
 }

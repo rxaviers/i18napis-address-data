@@ -1,10 +1,10 @@
 {
-  "upper": "ACZ",
-  "zipex": "H100",
-  "key": "SZ",
-  "zip": "[HLMS]\\d{3}",
-  "fmt": "%N%n%O%n%A%n%C%n%Z",
-  "posturl": "http://www.sptc.co.sz/swazipost/codes/index.php",
   "id": "data/SZ",
-  "name": "SWAZILAND"
+  "key": "SZ",
+  "name": "SWAZILAND",
+  "fmt": "%N%n%O%n%A%n%C%n%Z",
+  "upper": "ACZ",
+  "zip": "[HLMS]\\d{3}",
+  "zipex": "H100",
+  "posturl": "http://www.sptc.co.sz/swazipost/codes/index.php"
 }

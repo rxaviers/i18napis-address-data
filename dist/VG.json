@@ -1,9 +1,9 @@
 {
-  "zipex": "VG1110,VG1150,VG1160",
-  "name": "VIRGIN ISLANDS (BRITISH)",
-  "zip": "VG\\d{4}",
-  "require": "A",
   "id": "data/VG",
   "key": "VG",
-  "fmt": "%N%n%O%n%A%n%C%n%Z"
+  "name": "VIRGIN ISLANDS (BRITISH)",
+  "fmt": "%N%n%O%n%A%n%C%n%Z",
+  "require": "A",
+  "zip": "VG\\d{4}",
+  "zipex": "VG1110,VG1150,VG1160"
 }

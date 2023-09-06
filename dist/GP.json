@@ -1,11 +1,11 @@
 {
-  "upper": "ACX",
-  "zipex": "97100",
-  "key": "GP",
-  "zip": "9[78][01]\\d{2}",
-  "require": "ACZ",
   "id": "data/GP",
-  "posturl": "http://www.laposte.fr/Particulier/Utiliser-nos-outils-pratiques/Outils-et-documents/Trouvez-un-code-postal",
+  "key": "GP",
+  "name": "GUADELOUPE",
   "fmt": "%O%n%N%n%A%n%Z %C %X",
-  "name": "GUADELOUPE"
+  "require": "ACZ",
+  "upper": "ACX",
+  "zip": "9[78][01]\\d{2}",
+  "zipex": "97100",
+  "posturl": "http://www.laposte.fr/Particulier/Utiliser-nos-outils-pratiques/Outils-et-documents/Trouvez-un-code-postal"
 }

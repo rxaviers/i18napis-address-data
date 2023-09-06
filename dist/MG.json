@@ -1,8 +1,8 @@
 {
-  "zipex": "501,101",
-  "name": "MADAGASCAR",
-  "zip": "\\d{3}",
-  "fmt": "%N%n%O%n%A%n%Z %C",
+  "id": "data/MG",
   "key": "MG",
-  "id": "data/MG"
+  "name": "MADAGASCAR",
+  "fmt": "%N%n%O%n%A%n%Z %C",
+  "zip": "\\d{3}",
+  "zipex": "501,101"
 }

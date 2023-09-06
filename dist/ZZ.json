@@ -1,10 +1,10 @@
 {
-  "sublocality_name_type": "suburb",
+  "id": "data/ZZ",
+  "fmt": "%N%n%O%n%A%n%C",
+  "require": "AC",
   "upper": "C",
   "zip_name_type": "postal",
-  "require": "AC",
   "state_name_type": "province",
-  "id": "data/ZZ",
   "locality_name_type": "city",
-  "fmt": "%N%n%O%n%A%n%C"
+  "sublocality_name_type": "suburb"
 }

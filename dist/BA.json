@@ -1,8 +1,8 @@
 {
-  "zipex": "71000",
-  "name": "BOSNIA AND HERZEGOVINA",
-  "zip": "\\d{5}",
-  "fmt": "%N%n%O%n%A%n%Z %C",
+  "id": "data/BA",
   "key": "BA",
-  "id": "data/BA"
+  "name": "BOSNIA AND HERZEGOVINA",
+  "fmt": "%N%n%O%n%A%n%Z %C",
+  "zip": "\\d{5}",
+  "zipex": "71000"
 }

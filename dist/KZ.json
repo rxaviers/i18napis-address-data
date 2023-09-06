@@ -1,8 +1,8 @@
 {
-  "zipex": "040900,050012",
-  "name": "KAZAKHSTAN",
-  "zip": "\\d{6}",
-  "fmt": "%Z%n%S%n%C%n%A%n%O%n%N",
+  "id": "data/KZ",
   "key": "KZ",
-  "id": "data/KZ"
+  "name": "KAZAKHSTAN",
+  "fmt": "%Z%n%S%n%C%n%A%n%O%n%N",
+  "zip": "\\d{6}",
+  "zipex": "040900,050012"
 }

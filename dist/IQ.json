@@ -1,10 +1,10 @@
 {
-  "upper": "CS",
-  "zipex": "31001",
-  "name": "IRAQ",
-  "zip": "\\d{5}",
-  "require": "ACS",
   "id": "data/IQ",
   "key": "IQ",
-  "fmt": "%O%n%N%n%A%n%C, %S%n%Z"
+  "name": "IRAQ",
+  "fmt": "%O%n%N%n%A%n%C, %S%n%Z",
+  "require": "ACS",
+  "upper": "CS",
+  "zip": "\\d{5}",
+  "zipex": "31001"
 }

@@ -1,11 +1,11 @@
 {
-  "upper": "ACX",
-  "zipex": "97100",
-  "key": "MF",
-  "zip": "9[78][01]\\d{2}",
-  "require": "ACZ",
   "id": "data/MF",
-  "posturl": "http://www.laposte.fr/Particulier/Utiliser-nos-outils-pratiques/Outils-et-documents/Trouvez-un-code-postal",
+  "key": "MF",
+  "name": "SAINT MARTIN",
   "fmt": "%O%n%N%n%A%n%Z %C %X",
-  "name": "SAINT MARTIN"
+  "require": "ACZ",
+  "upper": "ACX",
+  "zip": "9[78][01]\\d{2}",
+  "zipex": "97100",
+  "posturl": "https://www.laposte.fr/particulier/outils/trouver-un-code-postal"
 }

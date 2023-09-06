@@ -1,7 +1,7 @@
 {
-  "upper": "CS",
-  "fmt": "%N%n%O%n%A%n%C%n%S",
   "id": "data/PA",
   "key": "PA",
-  "name": "PANAMA (REP.)"
+  "name": "PANAMA (REP.)",
+  "fmt": "%N%n%O%n%A%n%C%n%S",
+  "upper": "CS"
 }

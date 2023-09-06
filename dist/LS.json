@@ -1,8 +1,8 @@
 {
-  "zipex": "100",
-  "name": "LESOTHO",
-  "zip": "\\d{3}",
-  "fmt": "%N%n%O%n%A%n%C %Z",
+  "id": "data/LS",
   "key": "LS",
-  "id": "data/LS"
+  "name": "LESOTHO",
+  "fmt": "%N%n%O%n%A%n%C %Z",
+  "zip": "\\d{3}",
+  "zipex": "100"
 }

@@ -1,6 +1,6 @@
 # i18napis Address Data
 
-***Unofficial*** version controlled JSON distribution [i18napis Address Data](http://i18napis.appspot.com/address).
+***Unofficial*** version controlled JSON distribution [i18napis Address Data](https://github.com/google/libaddressinput/wiki/AddressValidationMetadata), hosted at https://chromium-i18n.appspot.com/ssl-address.
 
 It should be noted that the "official" data is distributed via a web service. The JSON data contained in this package is provided as a convenience for the development community, and is programatically generated from the corresponding service using the JSON conversion utility provided here.
 
@@ -38,7 +38,7 @@ The JSON files for each `data/<country>` found in the official service. The stru
 
 ## Status
 
-Latest official release is version 2018.12.0, published on 2018-12-12. Last checked for updates on 2018-12-12.
+Latest official release is version 2023.9.5, published on 2023-09-05. Last checked for updates on 2023-09-05.
 
 ## Usage
 
